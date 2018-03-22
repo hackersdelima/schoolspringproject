@@ -9,16 +9,16 @@
 <title>Digi Nepal | Araniko</title>
 
 <!-- Bootstrap -->
-<link href="template/css/bootstrap.min.css" rel="stylesheet">
+<link href="resources/css/bootstrap.min.css" rel="stylesheet">
 <!-- Font Awesome -->
-<link href="template/css/font-awesome.min.css" rel="stylesheet">
+<link href="resources/css/font-awesome.min.css" rel="stylesheet">
 <!-- NProgress -->
-<link href="template/css/nprogress.css" rel="stylesheet">
+<link href="resources/css/nprogress.css" rel="stylesheet">
 <!-- Animate.css -->
-<link href="template/css/animate.min.css" rel="stylesheet">
+<link href="resources/css/animate.min.css" rel="stylesheet">
 
 <!-- Custom Theme Style -->
-<link href="template/css/custom.min.css" rel="stylesheet">
+<link href="resources/css/custom.min.css" rel="stylesheet">
 </head>
 
 <body class="login">
